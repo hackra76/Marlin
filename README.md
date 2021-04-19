@@ -1,3 +1,30 @@
+This is my working repository of Marlin bugfix 2.0.x for this hardware configuration:
+
+Printer:  Tronxy X3A
+
+Board:    Bigtreetech SKR 1.4 turbo
+
+Steppers: 5x TMC2208UART
+
+Screen:   Bigtreetech TFT35-E3 v3.0
+
+Z probe:  BLtouch v3.1
+
+Hotend:   E3D v6 bowden setup with HeroMe 5 fan shroud
+
+Power:    240w 12V power supply with Bigtreetech Smart Relay
+
+Backup:   Bigtreetech Mini UPS 12V v1.2
+
+Other:    dual Z drivers, glass bed, dual linear rail Y axis
+
+
+I have my bed offsets set according to my endstop position, you can easily change this in configuration.
+
+Hope this helps someone...
+
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
