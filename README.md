@@ -10,7 +10,7 @@ Screen:   Bigtreetech TFT35-E3 v3.0
 
 Z probe:  BLtouch v3.1
 
-Hotend:   E3D v6 bowden setup with HeroMe 5 fan shroud
+Hotend:   BIQU H2 direct drive extruder
 
 Power:    240w 12V power supply with Bigtreetech Smart Relay
 
